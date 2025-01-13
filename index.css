@@ -1,11 +1,11 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #708090;
+  background: linear-gradient(to bottom, #0066cc 27%, #99ffcc 100%);
   width: 100%;
-  height: 400px;
+  height: 100px;
   background-size: cover;
-  animation: bounce 10s linear infinite;
+  animation: bounce 30s linear infinite;
   position: relative;
 }
 
@@ -14,7 +14,7 @@ body {
   25% { background-image: url('img visual/s2.jpeg'); }
   50% { background-image: url('img visual/s4.jpeg'); }
   75% { background-image: url('img visual/s6.jpeg'); }
-  100% { background-image: url('img visual/s7.jpeg'); }
+  100% { background-image: url('img visual/s7.jpeg');}
 }
 
 

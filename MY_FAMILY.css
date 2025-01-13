@@ -171,10 +171,11 @@ body, html {
 h3{
   width: 800px;
   font-family: sans-serif;
+  margin-left: 17rem;
   color: #F0F8FF;
   font-weight: 50px;
   text-align: center;
-  padding-left: 9rem;
+  padding-left: 6rem;
   padding-right: 5rem;
   background-color: #008080;
   height: 100px;
@@ -187,9 +188,9 @@ footer {
   color: white;
   padding: 10px;
   margin-bottom: -2rem;
-  margin-top: 14rem;
+  margin-top: 5rem;
   font-size: 14px;
-  padding-left: -15rem;
-  margin-left: -40rem;
+  padding-left: -1rem;
+  margin-left: -2rem;
   width: 100rem;
 }
